@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on FRC robotics stuff!
+- 🌱 I’m currently learning Swift and SwiftUI
+- 💬 Ask me about anything!
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like playing piano
